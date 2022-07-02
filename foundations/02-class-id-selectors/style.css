@@ -1,0 +1,19 @@
+.class-test{
+  background-color: lightpink;
+  font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+#FirstId{
+  color: blue;
+  font-size: 36px;
+}
+
+.bigger-font{
+  font-size: 24px;
+}
+
+#SecondId{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
